@@ -11,6 +11,10 @@ public class HelloController {
         return "hello" + name + "   springboot!";
     }
 
+    public void doSomething(){
+        System.out.println("doSomething");
+    }
+
     public void sayHello(){
         //增加一个方法
         System.out.println("hello");
