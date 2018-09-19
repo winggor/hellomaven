@@ -44,4 +44,8 @@ public class HelloController {
         int a = 6;
         System.out.println(a);
     }
+     public void doE(){
+        int a = 7;
+        System.out.println(a);
+    }
 }
