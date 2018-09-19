@@ -23,7 +23,7 @@ public class HelloController {
     public void doA(){
         System.out.println("A");
     }
-    
+
 
     public void doB(){
         int a  = 1;
@@ -50,5 +50,7 @@ public class HelloController {
      public void doE(){
         int a = 7;
         System.out.println(a);
+    public void doW(){
+        System.out.println("www");
     }
 }
