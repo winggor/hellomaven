@@ -10,4 +10,8 @@ public class HelloController {
         //test the git
         return "hello" + name + "   springboot!";
     }
+
+    public void doSomething(){
+        System.out.println("doSomething");
+    }
 }
