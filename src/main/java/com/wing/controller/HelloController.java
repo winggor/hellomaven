@@ -19,4 +19,8 @@ public class HelloController {
         //增加一个方法
         System.out.println("hello");
     }
+
+    public void doA(){
+        System.out.println("A");
+    }
 }
