@@ -23,4 +23,23 @@ public class HelloController {
     public void doA(){
         System.out.println("A");
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    public void doB(){
+        int a  = 1;
+        System.out.println(a);
+    }
 }
