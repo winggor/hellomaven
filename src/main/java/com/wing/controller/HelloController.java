@@ -31,4 +31,12 @@ public class HelloController {
         int a  = 1;
         System.out.println(a);
     }
+    
+    
+    
+    
+    public void doD(){
+        int a = 6;
+        System.out.println(a);
+    }
 }
