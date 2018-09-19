@@ -26,7 +26,7 @@ public class HelloController {
 
 
 
-    
+
     public void doB(){
         int a  = 1;
         System.out.println(a);
