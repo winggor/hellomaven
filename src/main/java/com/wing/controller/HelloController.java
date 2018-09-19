@@ -10,4 +10,9 @@ public class HelloController {
         //test the git
         return "hello" + name + "   springboot!";
     }
+
+    public void sayHello(){
+        //增加一个方法
+        System.out.println("hello");
+    }
 }
