@@ -36,4 +36,12 @@ public class HelloController {
     public void doC(){
         System.out.println("ccc");
     }
+
+
+
+
+    public void doD(){
+        int a = 6;
+        System.out.println(a);
+    }
 }
