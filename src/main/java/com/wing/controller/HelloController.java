@@ -31,4 +31,9 @@ public class HelloController {
         int a  = 1;
         System.out.println(a);
     }
+
+
+    public void doC(){
+        System.out.println("ccc");
+    }
 }
