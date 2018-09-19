@@ -44,4 +44,9 @@ public class HelloController {
         int a = 6;
         System.out.println(a);
     }
+    public void doF(){
+        int a = 666;
+        System.out.println(a);
+    }
+
 }
